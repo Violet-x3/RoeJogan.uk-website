@@ -4,11 +4,9 @@
    "how to change link color." */
 /* thanks Neocities for that explenation btw */
 /* also if someone could fix this that would be fantastic. cause currently. it isnt working so well. the style is just in index.html. and thats not good. */
-<style>
    body {
      background-color: black;
      color: white;
      font-family: Verdana;
      text-align: center;
    }
-</style>
